@@ -105,4 +105,4 @@ Puis ouvrir l'URL générée (généralement `http://localhost:8501`).
 
 ## 👤 Auteurs
 
-Projet développé par **\Michel B. et revu par Destin B.** — 2025
+Projet développé par **Michel B. et revu par Destin B.** — 2025
