@@ -1,0 +1,75 @@
+# Environnements virtuels
+env/
+.venv/
+venv/
+ENV/
+
+# Fichiers de configuration de l'environnement
+*.env
+*.venv
+*.egg-info/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de sortie Jupyter
+*.nbconvert.ipynb
+
+# Données temporaires et outputs
+*.log
+*.out
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Fichiers de datasets volumineux
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.parquet
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Dossiers de résultats
+results/
+outputs/
+logs/
+
+# Fichiers de configuration spécifiques à VSCode
+.vscode/
+
+# Fichiers de configuration Jupyter
+.jupyter/
+
+# Fichiers de cache
+.cache/
+
+# Fichiers de test
+htmlcov/
+.coverage
+.tox/
+
+# Fichiers de modèles
+#*.model
+#*.h5
+#*.pt
+#*.pth
+#*.onnx
+
+# Fichiers de packages
+*.whl
+
+# Fichiers de sauvegarde
+*~
